@@ -2872,6 +2872,7 @@ footer.page-footer {
 }
 
 footer.page-footer .footer-copyright {
+  text-align: center;
   overflow: hidden;
   height: 50px;
   line-height: 50px;
