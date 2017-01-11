@@ -5150,6 +5150,7 @@ button.btn-floating {
 }
 
 .btn-large {
+  width: 90%;
   height: 54px;
   line-height: 54px;
 }
